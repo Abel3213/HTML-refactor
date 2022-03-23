@@ -7,3 +7,7 @@
 
 ## What I acomplished
 In this weeks challenge I cleaned up the code and made it accessible to screen readers.
+
+##image of website
+
+![Refactor website](https://user-images.githubusercontent.com/98985844/159806955-ceda920a-5fe0-439c-b79d-0b6175eb18b9.png)
